@@ -36,9 +36,9 @@ st.title("Analisi KPI di Indici Finanziari")
 # Selezione dell'indice
 st.sidebar.header("Seleziona un titolo")
 symbols = {
-    "Google": "GOOG",
+    "Google": "GOOGL",
     "Apple": "AAPL",
-    "Vanguard S&P 500 ETF": "VOO",
+    "Vanguard S&P 500 ETF": "VUSA",
     "Microsoft": "MSFT",
     "Tesla": "TSLA",
 }
